@@ -2,7 +2,6 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/almazary/laravel-word-censor.svg?style=flat-square)](https://packagist.org/packages/almazary/laravel-word-censor)
 [![Total Downloads](https://img.shields.io/packagist/dt/almazary/laravel-word-censor.svg?style=flat-square)](https://packagist.org/packages/almazary/laravel-word-censor)
-![GitHub Actions](https://github.com/almazary/laravel-word-censor/actions/workflows/main.yml/badge.svg)
 
 This package will make it easier when you want to replace certain words with a *** sign
 
